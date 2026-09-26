@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.git/
+*.log
+*.exe
+backup_before_modular_*/
