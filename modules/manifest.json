@@ -1,0 +1,1374 @@
+{
+  "nodes": [
+    {
+      "index": 0,
+      "kind": "config",
+      "position": 0
+    },
+    {
+      "index": 1,
+      "kind": "config",
+      "position": 1
+    },
+    {
+      "index": 2,
+      "kind": "config",
+      "position": 2
+    },
+    {
+      "index": 3,
+      "kind": "config",
+      "position": 3
+    },
+    {
+      "index": 4,
+      "kind": "config",
+      "position": 4
+    },
+    {
+      "index": 5,
+      "kind": "config",
+      "position": 5
+    },
+    {
+      "index": 6,
+      "kind": "config",
+      "position": 6
+    },
+    {
+      "index": 7,
+      "kind": "config",
+      "position": 7
+    },
+    {
+      "index": 8,
+      "kind": "config",
+      "position": 8
+    },
+    {
+      "index": 9,
+      "kind": "config",
+      "position": 9
+    },
+    {
+      "index": 10,
+      "kind": "config",
+      "position": 10
+    },
+    {
+      "index": 11,
+      "kind": "config",
+      "position": 11
+    },
+    {
+      "index": 12,
+      "kind": "config",
+      "position": 12
+    },
+    {
+      "index": 13,
+      "kind": "config",
+      "position": 13
+    },
+    {
+      "index": 14,
+      "kind": "config",
+      "position": 14
+    },
+    {
+      "index": 15,
+      "kind": "config",
+      "position": 15
+    },
+    {
+      "index": 16,
+      "kind": "config",
+      "position": 16
+    },
+    {
+      "index": 17,
+      "kind": "config",
+      "position": 17
+    },
+    {
+      "index": 18,
+      "kind": "config",
+      "position": 18
+    },
+    {
+      "index": 19,
+      "kind": "config",
+      "position": 19
+    },
+    {
+      "index": 20,
+      "kind": "config",
+      "position": 20
+    },
+    {
+      "index": 21,
+      "kind": "config",
+      "position": 21
+    },
+    {
+      "index": 22,
+      "kind": "config",
+      "position": 22
+    },
+    {
+      "index": 23,
+      "kind": "config",
+      "position": 23
+    },
+    {
+      "index": 24,
+      "kind": "config",
+      "position": 24
+    },
+    {
+      "index": 25,
+      "kind": "config",
+      "position": 25
+    },
+    {
+      "index": 26,
+      "kind": "config",
+      "position": 26
+    },
+    {
+      "index": 27,
+      "kind": "config",
+      "position": 27
+    },
+    {
+      "index": 28,
+      "kind": "config",
+      "position": 28
+    },
+    {
+      "index": 29,
+      "kind": "config",
+      "position": 29
+    },
+    {
+      "index": 30,
+      "kind": "config",
+      "position": 30
+    },
+    {
+      "index": 31,
+      "kind": "config",
+      "position": 31
+    },
+    {
+      "index": 32,
+      "kind": "config",
+      "position": 32
+    },
+    {
+      "index": 33,
+      "kind": "config",
+      "position": 33
+    },
+    {
+      "index": 34,
+      "kind": "config",
+      "position": 34
+    },
+    {
+      "index": 35,
+      "kind": "config",
+      "position": 35
+    },
+    {
+      "index": 36,
+      "kind": "config",
+      "position": 36
+    },
+    {
+      "index": 37,
+      "kind": "config",
+      "position": 37
+    },
+    {
+      "index": 38,
+      "kind": "config",
+      "position": 38
+    },
+    {
+      "index": 39,
+      "kind": "config",
+      "position": 39
+    },
+    {
+      "index": 40,
+      "kind": "config",
+      "position": 40
+    },
+    {
+      "index": 41,
+      "kind": "config",
+      "position": 41
+    },
+    {
+      "index": 42,
+      "kind": "config",
+      "position": 42
+    },
+    {
+      "index": 43,
+      "kind": "config",
+      "position": 43
+    },
+    {
+      "index": 44,
+      "kind": "config",
+      "position": 44
+    },
+    {
+      "index": 45,
+      "kind": "config",
+      "position": 45
+    },
+    {
+      "index": 46,
+      "kind": "config",
+      "position": 46
+    },
+    {
+      "index": 47,
+      "kind": "config",
+      "position": 47
+    },
+    {
+      "index": 48,
+      "kind": "config",
+      "position": 48
+    },
+    {
+      "index": 49,
+      "kind": "config",
+      "position": 49
+    },
+    {
+      "index": 50,
+      "kind": "config",
+      "position": 50
+    },
+    {
+      "index": 51,
+      "kind": "config",
+      "position": 51
+    },
+    {
+      "index": 52,
+      "kind": "config",
+      "position": 52
+    },
+    {
+      "index": 53,
+      "kind": "config",
+      "position": 53
+    },
+    {
+      "index": 54,
+      "kind": "config",
+      "position": 54
+    },
+    {
+      "index": 55,
+      "kind": "config",
+      "position": 55
+    },
+    {
+      "index": 56,
+      "kind": "config",
+      "position": 56
+    },
+    {
+      "index": 57,
+      "kind": "config",
+      "position": 57
+    },
+    {
+      "index": 58,
+      "kind": "config",
+      "position": 58
+    },
+    {
+      "index": 59,
+      "kind": "config",
+      "position": 59
+    },
+    {
+      "index": 60,
+      "kind": "config",
+      "position": 60
+    },
+    {
+      "index": 61,
+      "kind": "config",
+      "position": 61
+    },
+    {
+      "index": 62,
+      "kind": "config",
+      "position": 62
+    },
+    {
+      "index": 63,
+      "kind": "config",
+      "position": 63
+    },
+    {
+      "index": 64,
+      "kind": "config",
+      "position": 64
+    },
+    {
+      "index": 65,
+      "kind": "config",
+      "position": 65
+    },
+    {
+      "index": 66,
+      "kind": "config",
+      "position": 66
+    },
+    {
+      "index": 67,
+      "kind": "config",
+      "position": 67
+    },
+    {
+      "index": 68,
+      "kind": "config",
+      "position": 68
+    },
+    {
+      "index": 69,
+      "kind": "config",
+      "position": 69
+    },
+    {
+      "index": 70,
+      "kind": "config",
+      "position": 70
+    },
+    {
+      "index": 71,
+      "kind": "config",
+      "position": 71
+    },
+    {
+      "index": 72,
+      "kind": "config",
+      "position": 72
+    },
+    {
+      "index": 73,
+      "kind": "config",
+      "position": 73
+    },
+    {
+      "index": 74,
+      "kind": "config",
+      "position": 74
+    },
+    {
+      "index": 75,
+      "kind": "config",
+      "position": 75
+    },
+    {
+      "index": 76,
+      "kind": "config",
+      "position": 76
+    },
+    {
+      "index": 77,
+      "kind": "config",
+      "position": 77
+    },
+    {
+      "index": 78,
+      "kind": "config",
+      "position": 78
+    },
+    {
+      "index": 79,
+      "kind": "config",
+      "position": 79
+    },
+    {
+      "index": 80,
+      "kind": "config",
+      "position": 80
+    },
+    {
+      "index": 81,
+      "kind": "config",
+      "position": 81
+    },
+    {
+      "index": 82,
+      "kind": "config",
+      "position": 82
+    },
+    {
+      "index": 83,
+      "kind": "config",
+      "position": 83
+    },
+    {
+      "index": 84,
+      "kind": "config",
+      "position": 84
+    },
+    {
+      "index": 85,
+      "kind": "config",
+      "position": 85
+    },
+    {
+      "index": 86,
+      "kind": "config",
+      "position": 86
+    },
+    {
+      "index": 87,
+      "kind": "config",
+      "position": 87
+    },
+    {
+      "index": 88,
+      "kind": "config",
+      "position": 88
+    },
+    {
+      "index": 89,
+      "kind": "config",
+      "position": 89
+    },
+    {
+      "index": 90,
+      "kind": "config",
+      "position": 90
+    },
+    {
+      "index": 91,
+      "kind": "config",
+      "position": 91
+    },
+    {
+      "index": 92,
+      "kind": "config",
+      "position": 92
+    },
+    {
+      "index": 93,
+      "kind": "config",
+      "position": 93
+    },
+    {
+      "index": 94,
+      "kind": "config",
+      "position": 94
+    },
+    {
+      "index": 95,
+      "kind": "config",
+      "position": 95
+    },
+    {
+      "index": 96,
+      "kind": "config",
+      "position": 96
+    },
+    {
+      "index": 97,
+      "kind": "config",
+      "position": 97
+    },
+    {
+      "index": 98,
+      "kind": "config",
+      "position": 98
+    },
+    {
+      "index": 99,
+      "kind": "config",
+      "position": 99
+    },
+    {
+      "index": 100,
+      "kind": "config",
+      "position": 100
+    },
+    {
+      "index": 101,
+      "kind": "config",
+      "position": 101
+    },
+    {
+      "index": 102,
+      "kind": "config",
+      "position": 102
+    },
+    {
+      "index": 103,
+      "kind": "config",
+      "position": 103
+    },
+    {
+      "index": 104,
+      "kind": "config",
+      "position": 104
+    },
+    {
+      "index": 105,
+      "kind": "config",
+      "position": 105
+    },
+    {
+      "index": 106,
+      "kind": "config",
+      "position": 106
+    },
+    {
+      "index": 107,
+      "kind": "config",
+      "position": 107
+    },
+    {
+      "index": 108,
+      "kind": "config",
+      "position": 108
+    },
+    {
+      "index": 109,
+      "kind": "config",
+      "position": 109
+    },
+    {
+      "index": 110,
+      "kind": "config",
+      "position": 110
+    },
+    {
+      "index": 111,
+      "kind": "config",
+      "position": 111
+    },
+    {
+      "index": 112,
+      "kind": "config",
+      "position": 112
+    },
+    {
+      "index": 113,
+      "kind": "config",
+      "position": 113
+    },
+    {
+      "index": 114,
+      "kind": "config",
+      "position": 114
+    },
+    {
+      "index": 115,
+      "kind": "config",
+      "position": 115
+    },
+    {
+      "index": 116,
+      "kind": "config",
+      "position": 116
+    },
+    {
+      "index": 117,
+      "kind": "config",
+      "position": 117
+    },
+    {
+      "index": 118,
+      "kind": "config",
+      "position": 118
+    },
+    {
+      "index": 119,
+      "kind": "config",
+      "position": 119
+    },
+    {
+      "index": 120,
+      "kind": "config",
+      "position": 120
+    },
+    {
+      "index": 121,
+      "kind": "config",
+      "position": 121
+    },
+    {
+      "index": 122,
+      "kind": "config",
+      "position": 122
+    },
+    {
+      "index": 123,
+      "kind": "config",
+      "position": 123
+    },
+    {
+      "index": 124,
+      "kind": "config",
+      "position": 124
+    },
+    {
+      "index": 125,
+      "kind": "config",
+      "position": 125
+    },
+    {
+      "index": 126,
+      "kind": "config",
+      "position": 126
+    },
+    {
+      "index": 127,
+      "kind": "config",
+      "position": 127
+    },
+    {
+      "index": 128,
+      "kind": "config",
+      "position": 128
+    },
+    {
+      "index": 129,
+      "kind": "config",
+      "position": 129
+    },
+    {
+      "index": 130,
+      "kind": "config",
+      "position": 130
+    },
+    {
+      "index": 131,
+      "kind": "config",
+      "position": 131
+    },
+    {
+      "index": 132,
+      "kind": "config",
+      "position": 132
+    },
+    {
+      "index": 133,
+      "kind": "config",
+      "position": 133
+    },
+    {
+      "index": 134,
+      "kind": "config",
+      "position": 134
+    },
+    {
+      "index": 135,
+      "kind": "config",
+      "position": 135
+    },
+    {
+      "index": 136,
+      "kind": "config",
+      "position": 136
+    },
+    {
+      "index": 137,
+      "kind": "config",
+      "position": 137
+    },
+    {
+      "index": 138,
+      "kind": "config",
+      "position": 138
+    },
+    {
+      "index": 139,
+      "kind": "config",
+      "position": 139
+    },
+    {
+      "index": 140,
+      "kind": "config",
+      "position": 140
+    },
+    {
+      "index": 141,
+      "kind": "config",
+      "position": 141
+    },
+    {
+      "index": 142,
+      "kind": "config",
+      "position": 142
+    },
+    {
+      "index": 143,
+      "kind": "config",
+      "position": 143
+    },
+    {
+      "index": 144,
+      "kind": "config",
+      "position": 144
+    },
+    {
+      "index": 145,
+      "kind": "config",
+      "position": 145
+    },
+    {
+      "index": 146,
+      "kind": "config",
+      "position": 146
+    },
+    {
+      "index": 147,
+      "kind": "config",
+      "position": 147
+    },
+    {
+      "index": 148,
+      "kind": "config",
+      "position": 148
+    },
+    {
+      "index": 149,
+      "kind": "config",
+      "position": 149
+    },
+    {
+      "index": 150,
+      "kind": "config",
+      "position": 150
+    },
+    {
+      "index": 151,
+      "kind": "config",
+      "position": 151
+    },
+    {
+      "index": 152,
+      "kind": "config",
+      "position": 152
+    },
+    {
+      "index": 153,
+      "kind": "config",
+      "position": 153
+    },
+    {
+      "index": 154,
+      "kind": "config",
+      "position": 154
+    },
+    {
+      "index": 155,
+      "kind": "config",
+      "position": 155
+    },
+    {
+      "index": 156,
+      "kind": "config",
+      "position": 156
+    },
+    {
+      "index": 157,
+      "kind": "config",
+      "position": 157
+    },
+    {
+      "index": 158,
+      "kind": "config",
+      "position": 158
+    },
+    {
+      "index": 159,
+      "kind": "config",
+      "position": 159
+    },
+    {
+      "index": 160,
+      "kind": "config",
+      "position": 160
+    },
+    {
+      "index": 161,
+      "kind": "config",
+      "position": 161
+    },
+    {
+      "index": 162,
+      "kind": "config",
+      "position": 162
+    },
+    {
+      "index": 163,
+      "kind": "config",
+      "position": 163
+    },
+    {
+      "index": 164,
+      "kind": "config",
+      "position": 164
+    },
+    {
+      "index": 165,
+      "kind": "config",
+      "position": 165
+    },
+    {
+      "index": 166,
+      "kind": "config",
+      "position": 166
+    },
+    {
+      "index": 167,
+      "kind": "config",
+      "position": 167
+    },
+    {
+      "index": 168,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "clear_runtime_caches",
+      "position": 0
+    },
+    {
+      "index": 169,
+      "kind": "config",
+      "position": 168
+    },
+    {
+      "index": 170,
+      "kind": "config",
+      "position": 169
+    },
+    {
+      "index": 171,
+      "kind": "config",
+      "position": 170
+    },
+    {
+      "index": 172,
+      "kind": "function",
+      "module": "ui.py",
+      "name": "progress",
+      "position": 0
+    },
+    {
+      "index": 173,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "load_assets",
+      "position": 1
+    },
+    {
+      "index": 174,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "get_scaled_templates",
+      "position": 0
+    },
+    {
+      "index": 175,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "find_scrcpy_window",
+      "position": 2
+    },
+    {
+      "index": 176,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "get_scrcpy_screen_origin",
+      "position": 1
+    },
+    {
+      "index": 177,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "focus_scrcpy",
+      "position": 3
+    },
+    {
+      "index": 178,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "left_click_screen",
+      "position": 2
+    },
+    {
+      "index": 179,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "capture_screen",
+      "position": 3
+    },
+    {
+      "index": 180,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "classify_square",
+      "position": 4
+    },
+    {
+      "index": 181,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "square_geometry",
+      "position": 5
+    },
+    {
+      "index": 182,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "get_square_crop",
+      "position": 6
+    },
+    {
+      "index": 183,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "_get_cached_square_gray",
+      "position": 7
+    },
+    {
+      "index": 184,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "square_change_score",
+      "position": 8
+    },
+    {
+      "index": 185,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "scan_board",
+      "position": 9
+    },
+    {
+      "index": 186,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "grid_to_dict",
+      "position": 0
+    },
+    {
+      "index": 187,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "square_screen_center",
+      "position": 10
+    },
+    {
+      "index": 188,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "promotion_symbol",
+      "position": 0
+    },
+    {
+      "index": 189,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "promotion_candidate_squares",
+      "position": 1
+    },
+    {
+      "index": 190,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "find_promotion_choice",
+      "position": 2
+    },
+    {
+      "index": 191,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "select_promotion_piece",
+      "position": 3
+    },
+    {
+      "index": 192,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "_verify_source_click_selected",
+      "position": 4
+    },
+    {
+      "index": 193,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "click_move",
+      "position": 5
+    },
+    {
+      "index": 194,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "expected_changed_squares",
+      "position": 1
+    },
+    {
+      "index": 195,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "expected_board_after_move",
+      "position": 2
+    },
+    {
+      "index": 196,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "expected_symbol_after",
+      "position": 3
+    },
+    {
+      "index": 197,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "grid_conf_dict",
+      "position": 11
+    },
+    {
+      "index": 198,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "board_hypothesis_score",
+      "position": 4
+    },
+    {
+      "index": 199,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "move_transition_strength",
+      "position": 0
+    },
+    {
+      "index": 200,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "rank_changed_squares",
+      "position": 4
+    },
+    {
+      "index": 201,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "move_visual_score",
+      "position": 1
+    },
+    {
+      "index": 202,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "human_piece_type",
+      "position": 0
+    },
+    {
+      "index": 203,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "human_direct_state_confirmed",
+      "position": 1
+    },
+    {
+      "index": 204,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "fast_human_move_rescan",
+      "position": 2
+    },
+    {
+      "index": 205,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "periodic_full_board_catchup_scan",
+      "position": 3
+    },
+    {
+      "index": 206,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "ultra_board_delta_recovery",
+      "position": 4
+    },
+    {
+      "index": 207,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "ultra_human_background_rescan",
+      "position": 5
+    },
+    {
+      "index": 208,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "detect_human_move",
+      "position": 6
+    },
+    {
+      "index": 209,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "get_settled_frame",
+      "position": 7
+    },
+    {
+      "index": 210,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "board_frame_change_score",
+      "position": 5
+    },
+    {
+      "index": 211,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "validate_bot_move_frame",
+      "position": 5
+    },
+    {
+      "index": 212,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "direct_move_state_confirmed",
+      "position": 6
+    },
+    {
+      "index": 213,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "_fast_board_gray",
+      "position": 6
+    },
+    {
+      "index": 214,
+      "kind": "function",
+      "module": "board_state.py",
+      "name": "fast_board_motion_map",
+      "position": 7
+    },
+    {
+      "index": 215,
+      "kind": "function",
+      "module": "vision.py",
+      "name": "fast_square_motion_scores",
+      "position": 12
+    },
+    {
+      "index": 216,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "fast_expected_post_state_confirmed",
+      "position": 2
+    },
+    {
+      "index": 217,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "fast_preclick_board_confirmed",
+      "position": 3
+    },
+    {
+      "index": 218,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "screen_still_before_move",
+      "position": 4
+    },
+    {
+      "index": 219,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "full_board_state_confirmed",
+      "position": 5
+    },
+    {
+      "index": 220,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "verify_human_move_on_screen",
+      "position": 6
+    },
+    {
+      "index": 221,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "screen_matches_expected_bot_move",
+      "position": 7
+    },
+    {
+      "index": 222,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "transition_confirmed",
+      "position": 8
+    },
+    {
+      "index": 223,
+      "kind": "function",
+      "module": "verification.py",
+      "name": "verify_bot_move",
+      "position": 9
+    },
+    {
+      "index": 224,
+      "kind": "function",
+      "module": "orientation.py",
+      "name": "detect_board_orientation",
+      "position": 0
+    },
+    {
+      "index": 225,
+      "kind": "function",
+      "module": "orientation.py",
+      "name": "stable_initial_scan",
+      "position": 1
+    },
+    {
+      "index": 226,
+      "kind": "function",
+      "module": "orientation.py",
+      "name": "detect_bottom_stockfish_color",
+      "position": 2
+    },
+    {
+      "index": 227,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "score_to_cp",
+      "position": 7
+    },
+    {
+      "index": 228,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "format_eval",
+      "position": 0
+    },
+    {
+      "index": 229,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "favor_text",
+      "position": 1
+    },
+    {
+      "index": 230,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "material_value",
+      "position": 2
+    },
+    {
+      "index": 231,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "side_material",
+      "position": 3
+    },
+    {
+      "index": 232,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "classify_move_quality",
+      "position": 4
+    },
+    {
+      "index": 233,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "build_analysis",
+      "position": 5
+    },
+    {
+      "index": 234,
+      "kind": "function",
+      "module": "bot.py",
+      "name": "safe_drop_fraction",
+      "position": 6
+    },
+    {
+      "index": 235,
+      "kind": "function",
+      "module": "human_detection.py",
+      "name": "opponent_recent_accuracy",
+      "position": 8
+    },
+    {
+      "index": 236,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "adaptive_accuracy_profile",
+      "position": 6
+    },
+    {
+      "index": 237,
+      "kind": "function",
+      "module": "engine.py",
+      "name": "choose_stockfish_move",
+      "position": 7
+    },
+    {
+      "index": 238,
+      "kind": "function",
+      "module": "ui.py",
+      "name": "draw_overlay",
+      "position": 1
+    },
+    {
+      "index": 239,
+      "kind": "function",
+      "module": "ui.py",
+      "name": "format_board_for_screen",
+      "position": 2
+    },
+    {
+      "index": 240,
+      "kind": "function",
+      "module": "ui.py",
+      "name": "format_move_history",
+      "position": 3
+    },
+    {
+      "index": 241,
+      "kind": "function",
+      "module": "ui.py",
+      "name": "print_game_state",
+      "position": 4
+    },
+    {
+      "index": 242,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "detect_existing_white_first_move",
+      "position": 8
+    },
+    {
+      "index": 243,
+      "kind": "function",
+      "module": "misc.py",
+      "name": "main",
+      "position": 9
+    },
+    {
+      "index": 244,
+      "kind": "main_guard"
+    }
+  ]
+}
